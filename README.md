@@ -21,6 +21,12 @@ We're committed to a decentralized future powered by distributed ledger technolo
     <td align="center"><img src="https://github.com/user-attachments/assets/200b95c3-cd8d-49f7-9f6d-5726079efe61" width="100" /><br />Airchains</td>
     <td align="center"><img src="https://github.com/user-attachments/assets/68b9a575-71c1-4b95-8bfc-7a01432229c2" width="100" /><br />Source</td>
   </tr>
+    <tr>
+    <td align="center"><img src="https://github.com/user-attachments/assets/af64ad1b-d4d2-4531-b971-b8f8c4d4a8ce" width="100" /><br />Fairblock</td>
+    <td align="center"><img src="" width="100" /><br /></td>
+    <td align="center"><img src="" width="100" /><br /></td>
+    <td align="center"><img src="" width="100" /><br /></td>
+  </tr>
 </table>
 
 ---
@@ -30,6 +36,7 @@ We're committed to a decentralized future powered by distributed ledger technolo
 - [Install a Nesa node](https://medium.com/@harisvalidator/install-a-nesa-node-7f29eb4c925f)
 - [entropy-devnet](https://github.com/Mernajop/entropy-devnet)
 - [airchains-node](https://github.com/Mernajop/airchains-node)
+- [Fairblock-Modules](https://github.com/Mernajop/Fairblock-Modules)
 
 
 ---
