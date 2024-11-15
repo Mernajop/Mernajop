@@ -36,7 +36,7 @@ We're committed to a decentralized future powered by distributed ledger technolo
 - [Install a Nesa node](https://medium.com/@harisvalidator/install-a-nesa-node-7f29eb4c925f)
 - [entropy-devnet](https://github.com/Mernajop/entropy-devnet)
 - [airchains-node](https://github.com/Mernajop/airchains-node)
-- [Fairblock-Modules](https://github.com/Mernajop/Fairblock-Modules)
+- [fairblock-modules](https://github.com/Mernajop/Fairblock-Modules)
 
 
 ---
